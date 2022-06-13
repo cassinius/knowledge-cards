@@ -1,0 +1,27 @@
+{
+  "name": "knowledge-cards",
+  "version": "1.0.0",
+  "description": "Collection of knowledge cards for later use in Philines / Lemonphi'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cassinius/knowledge-cards.git"
+  },
+  "keywords": [
+    "knowledge",
+    "cards",
+    "graph",
+    "causality",
+    "lemonphi",
+    "philines"
+  ],
+  "author": "Bernd Malle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cassinius/knowledge-cards/issues"
+  },
+  "homepage": "https://github.com/cassinius/knowledge-cards#readme"
+}
